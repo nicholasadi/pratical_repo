@@ -1,14 +1,14 @@
 [
   {
-  "Title"         :  "One Piece" ,
-  "Author"        : "Eichiro Oda",
-  "Genre"         : "Adventure, Fantasy",
-  "First release" : "22 July 1997"
+  "Title"     :  "One Piece" ,
+  "Author"    : "Eichiro Oda",
+  "Genre"     : "Adventure, Fantasy",
+  "Published" : "22 July 1997"
   },
   {
-  "Title"         : "Naruto" ,
-  "Author"        : "Masashi Kishimoto",
-  "Genre"         : "Manga",
-  "First release" : "2 May 2014" 
+  "Title"     : "Naruto" ,
+  "Author"    : "Masashi Kishimoto",
+  "Genre"     : "Manga",
+  "Published" : "21 September 1999" 
   }
 ] 
