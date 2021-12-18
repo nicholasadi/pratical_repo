@@ -3,5 +3,10 @@
   "Title"   :  "One Piece" ,
   "Author"  : "Eichiro Oda",
   "Genre"   : "Adventure, Fantasy"
+  },
+  {
+  "Title"   : "Naruto" ,
+  "Author"  : "Masashi Kishimoto",
+  "Genre"   : "Manga"
   }
 ] 
